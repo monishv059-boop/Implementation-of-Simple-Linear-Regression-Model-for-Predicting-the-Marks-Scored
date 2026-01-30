@@ -14,11 +14,11 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-
-```
-
+<img width="1320" height="758" alt="Screenshot 2026-01-30 103335" src="https://github.com/user-attachments/assets/09e87403-1b10-4068-a671-e1fc64bd3af4" />
+<img width="711" height="234" alt="Screenshot 2026-01-30 103345" src="https://github.com/user-attachments/assets/603afebe-7cb1-48a8-9865-e6519627add9" />
 ## Output:
-
+<img width="786" height="356" alt="Screenshot 2026-01-30 103402" src="https://github.com/user-attachments/assets/8b64b7ef-26e4-4818-a795-31558f0abcf4" />
+<img width="1098" height="662" alt="Screenshot 2026-01-30 103410" src="https://github.com/user-attachments/assets/bb77bc0a-d8a0-4cb0-97ea-bb4b6a6fca16" />
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
