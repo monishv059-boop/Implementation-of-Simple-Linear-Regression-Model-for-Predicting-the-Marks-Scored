@@ -20,10 +20,8 @@ To write a program to predict the marks scored by a student using the simple lin
 ```
 
 ## Output:
-<img width="786" height="356" alt="Screenshot 2026-01-30 103402" src="https://github.com/user-attachments/assets/b7ea84df-ab30-48be-bc7c-453b06b15ad4" />
-<img width="1098" height="662" alt="Screenshot 2026-01-30 103410" src="https://github.com/user-attachments/assets/40e0d6e9-0979-4705-837f-51beca8a5290" />
-
-![simple linear regression model for predicting the marks scored](sam.png)
+<img width="786" height="356" alt="Screenshot 2026-01-30 103402" src="https://github.com/user-attachments/assets/0c8c38ca-e37f-4224-8cf0-309b2b384129" />
+<img width="1098" height="662" alt="Screenshot 2026-01-30 103410" src="https://github.com/user-attachments/assets/f598bdcb-0368-45b8-b168-e3887874b7e0" />
 
 
 ## Result:
