@@ -14,7 +14,9 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
-```
+```<img width="1320" height="758" alt="Screenshot 2026-01-30 103335" src="https://github.com/user-attachments/assets/3f9f98d1-b12a-45bc-8ac5-ac46c13c5341" />
+<img width="711" height="234" alt="Screenshot 2026-01-30 103345" src="https://github.com/user-attachments/assets/64a938f5-e2f8-441a-b295-7dce5980dfd5" />
+
 /*<img width="1320" height="758" alt="Screenshot 2026-01-30 103335" src="https://github.com/user-attachments/assets/969b89af-8237-47de-b61a-3fda9eeeed71" />
 <img width="711" height="234" alt="Screenshot 2026-01-30 103345" src="https://github.com/user-attachments/assets/d5e217d7-6fef-489f-a55e-3e0b9a5f1925" />
 
